@@ -338,7 +338,7 @@ hr {
     background: #eee4da;
     z-index: 10; }
   .tile.tile-2 .tile-inner {
-    background: #fff url('../img/monkey-face.jpeg');
+    background: #fff url('../img/scary-keets.jpeg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
